@@ -1,0 +1,54 @@
+* {
+  font-family: "Roboto", serif;
+}
+
+body {
+  /* background-image: url('./assets/cristo-redentor.jpg');
+  background-size: cover; */
+  background-color: #f0f0f0;
+  font-family: Arial, sans-serif;
+  margin: 80px 220px 80px 220px;
+  padding: 0;
+  display: block;
+}
+
+.main-image {
+  width: 100%;
+  height: 660px;
+  object-fit: fill;
+  border-radius: 1rem;
+  margin-bottom: 1rem;
+}
+
+h1, h2, h3 {
+  font-size: 36px;
+}
+
+p {
+  margin-bottom: 40px;
+  font-size: 25px;
+}
+
+#main {
+  text-align: center;
+  font-size: 30px;
+}
+
+.h2 {
+  margin-bottom: 64px;
+  margin-top: 64px;
+}
+
+img {
+  width: 100%;
+  height: 660px;
+  border-radius: 1rem;
+}
+
+ul {
+  margin-left: 20px;
+  font-size: 25px;
+  margin-bottom: 40px;
+}
+
+
